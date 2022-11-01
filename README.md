@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditfahmi
 - 👀 I’m interested in IT especially in Web Development and Mobile Programming.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Flutter.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on project or job freelance.
 - 📫 You can reach me at adityafahmiaprianto@gmail.com
 
