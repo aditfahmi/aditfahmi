@@ -55,6 +55,6 @@ hobbies: ["Gaming", "Cinema", "Basketball", "Art", "Comedy"]*
 ### Random Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![](https://visitcount.itsvg.in/api?id=aditfahmi&icon=7&color=8)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
