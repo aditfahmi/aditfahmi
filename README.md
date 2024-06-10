@@ -21,14 +21,12 @@ company: Upwork
 
 fields_of_interests:
   [
-    "UI/UX",
+    "Project Management",
     "Mobile Development
     "Web Development",
-    "Data Science",
+    "Data Analyst",
     "Machine Learning",
-    "Game Development",
-    "DevOps",
-  ]
+    ]
 technical_background:
   [
     "UI UX Designer - Upwork",
