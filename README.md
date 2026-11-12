@@ -11,33 +11,22 @@
 ```yaml
 *name: Aditya Fahmi Apriant
 located_in: East Java, Indonesia
-current_job: UI UX Designer
+current_job: IT Support Engineer
 education:
   [
     "Self-Taught Developer and Designer",
     "Bachelor's in Informatics Engineering",
   ]
-company: Upwork
 
 fields_of_interests:
   [
+    "Data Analyst",
     "Project Management",
     "Mobile Development
     "Web Development",
-    "Data Analyst",
     "Machine Learning",
     ]
-technical_background:
-  [
-    "UI UX Designer - Upwork",
-    "Telecommunication Engineer - PT Supraco Indonesia",
-    "Telecommunication Engineer - PT Huawei Tech Investment",
-    "Fiber Optic Engineer - PT Telkom Akses",
-  ]
-  
-currently_learning: ["Dart and Flutter, Python"]
-2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Basketball", "Art", "Comedy"]*
+
 ```
 <hr/>
 
